@@ -3,6 +3,9 @@ project(firstprogram)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(firstprogram main.cpp
-csevening.cpp
+add_executable(firstprogram
+#        variables.cpp
+#        userInput.cpp
+        ifcondition.cpp
+
 )
